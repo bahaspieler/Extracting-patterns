@@ -1,0 +1,6 @@
+MCTRI =mctri.xlsx
+BAND =band.xlsx
+BAND&MCTRI =Band+mctri.xlsx
+MCTRI_text =BSCALL_OTRX.txt
+BAND_test =BSCALL_RXOTX.txt
+All files directory =put your directory here
